@@ -460,6 +460,44 @@
           "value": "#702459",
           "type": "color"
         }
+      },
+      "primary": {
+        "100": {
+          "value": "#e9eff3",
+          "type": "color"
+        },
+        "200": {
+          "value": "#d3dee8",
+          "type": "color"
+        },
+        "300": {
+          "value": "#a7bdd0",
+          "type": "color"
+        },
+        "400": {
+          "value": "#7b9db9",
+          "type": "color"
+        },
+        "500": {
+          "value": "#4f7ca1",
+          "type": "color"
+        },
+        "600": {
+          "value": "#235b8a",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1c496e",
+          "type": "color"
+        },
+        "800": {
+          "value": "#153753",
+          "type": "color"
+        },
+        "900": {
+          "value": "#0e2437",
+          "type": "color"
+        }
       }
     },
     "opacity": {
