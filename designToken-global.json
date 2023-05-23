@@ -520,7 +520,7 @@
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Verdana",
+        "value": "Lato",
         "type": "fontFamilies"
       }
     },
@@ -574,6 +574,10 @@
       "bodyBold": {
         "value": "Bold",
         "type": "fontWeights"
+      },
+      "bodySemiBold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
       }
     },
     "fontSizes": {
@@ -611,6 +615,10 @@
       },
       "xs": {
         "value": "{fontSizes.body} * 0.65",
+        "type": "fontSizes"
+      },
+      "large": {
+        "value": "24",
         "type": "fontSizes"
       }
     }
@@ -754,19 +762,19 @@
       "default": {
         "value": [
           {
-            "x": 5,
-            "y": 5,
-            "spread": 3,
+            "x": "5",
+            "y": "5",
+            "spread": "3",
             "color": "rgba({shadows.default}, 0.15)",
-            "blur": 5,
+            "blur": "5",
             "type": "dropShadow"
           },
           {
-            "x": 4,
-            "y": 4,
-            "spread": 6,
+            "x": "4",
+            "y": "4",
+            "spread": "6",
             "color": "#00000033",
-            "blur": 5,
+            "blur": "5",
             "type": "innerShadow"
           }
         ],
